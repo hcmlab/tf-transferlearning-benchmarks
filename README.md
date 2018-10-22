@@ -59,6 +59,7 @@ Our experiments were conducted on following devices on which a CHROOT environmen
 
 ## Models
 For the performance tests on the devices the following models were used:
+
 ![alt text](plots/Models.svg "Models")
 
 The accuracies for the ILSVRC-2012-CLS data set were extracted from the following websites where also details can be found:
@@ -73,17 +74,21 @@ http://download.tensorflow.org/example_images/flower_photos.tgz
 
 ## Results
 ![alt text](plots/Runtimes_comp.svg "Runtime comparison")
+
 Average device runtimes for bottleneck creation (blue), training (orange) and evaluation (green) out of three runs for each model configuration for the flower data set. An overview with the exact values can be found in this PDF file:
 [LINK](measurements/Measurements_Overview.pdf)
 
 
 ![alt text](plots/Incremental_All.svg "Incremental picture count (all)")
+
 Macro-average precisions and recalls of models trained with an incremented count of flower pictures (80% training and 20% validation). The evaluation set consists out of 400 pictures for each class. All trainings and model evaluations were conducted three times and the macro-averages of precisions and recalls are averaged. Used base model: M2_100_128.
 
 ![alt text](plots/Incremental_Daisy.svg "Incremental picture count (daisy)")
+
 Macro-average precisions and recalls of models trained with an incremented count of daisy flower pictures while four other flower classes are kept with constant picture count of 150 (80% training and 20% validation). The evaluation set consists out of 400 pictures for each class. All trainings and model evaluations were conducted three times and the macro-averages of precisions and recalls are averaged. Used base model: M2_100_128.
 
 ![alt text](plots/Incremental_Random.svg "Incremental picture count (random class)")
+
 Macro-average precisions and recalls of models trained with an incremented count of flower pictures (80% training and 20% validation). The count of classes is shown in gray. New pictures are added to a randomly selected class until all classes consist out of 150 pictures. The evaluation set consists out of 400 pictures for each class. All trainings and model evaluations were conducted three times (stable random class selection) and the macro-averages of precisions and recalls are averaged. Used base model: M2_100_128.
 
 
