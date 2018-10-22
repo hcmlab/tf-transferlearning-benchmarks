@@ -1,0 +1,1018 @@
+2018-05-23T12:05:44.042750	program	begin
+2018-05-23T12:05:44.042750	searching_picts	begin
+2018-05-23T12:05:44.058376	searching_picts	end
+2018-05-23T12:05:44.058376	model_loading	begin
+2018-05-23T12:05:46.261626	model_loading	end
+2018-05-23T12:05:46.261626	model_adapt	begin
+2018-05-23T12:05:47.074175	model_adapt	end
+2018-05-23T12:05:47.074175	bottlenecks_create_load	begin
+2018-05-23T12:05:47.886748	create_bottleneck_file	begin
+2018-05-23T12:05:48.339889	create_bottleneck_file	end
+2018-05-23T12:05:48.339889	create_bottleneck_file	begin
+2018-05-23T12:05:48.449275	create_bottleneck_file	end
+2018-05-23T12:05:48.449275	create_bottleneck_file	begin
+2018-05-23T12:05:48.558640	create_bottleneck_file	end
+2018-05-23T12:05:48.558640	create_bottleneck_file	begin
+2018-05-23T12:05:48.683662	create_bottleneck_file	end
+2018-05-23T12:05:48.683662	create_bottleneck_file	begin
+2018-05-23T12:05:48.808672	create_bottleneck_file	end
+2018-05-23T12:05:48.808672	create_bottleneck_file	begin
+2018-05-23T12:05:48.918037	create_bottleneck_file	end
+2018-05-23T12:05:48.918037	create_bottleneck_file	begin
+2018-05-23T12:05:49.011793	create_bottleneck_file	end
+2018-05-23T12:05:49.011793	create_bottleneck_file	begin
+2018-05-23T12:05:49.121174	create_bottleneck_file	end
+2018-05-23T12:05:49.121174	create_bottleneck_file	begin
+2018-05-23T12:05:49.230556	create_bottleneck_file	end
+2018-05-23T12:05:49.230556	create_bottleneck_file	begin
+2018-05-23T12:05:49.339938	create_bottleneck_file	end
+2018-05-23T12:05:49.339938	create_bottleneck_file	begin
+2018-05-23T12:05:49.449321	create_bottleneck_file	end
+2018-05-23T12:05:49.449321	create_bottleneck_file	begin
+2018-05-23T12:05:49.543091	create_bottleneck_file	end
+2018-05-23T12:05:49.543091	create_bottleneck_file	begin
+2018-05-23T12:05:49.652457	create_bottleneck_file	end
+2018-05-23T12:05:49.652457	create_bottleneck_file	begin
+2018-05-23T12:05:49.761839	create_bottleneck_file	end
+2018-05-23T12:05:49.761839	create_bottleneck_file	begin
+2018-05-23T12:05:49.855594	create_bottleneck_file	end
+2018-05-23T12:05:49.871221	create_bottleneck_file	begin
+2018-05-23T12:05:49.964987	create_bottleneck_file	end
+2018-05-23T12:05:49.980602	create_bottleneck_file	begin
+2018-05-23T12:05:50.074358	create_bottleneck_file	end
+2018-05-23T12:05:50.074358	create_bottleneck_file	begin
+2018-05-23T12:05:50.183739	create_bottleneck_file	end
+2018-05-23T12:05:50.183739	create_bottleneck_file	begin
+2018-05-23T12:05:50.293121	create_bottleneck_file	end
+2018-05-23T12:05:50.308747	create_bottleneck_file	begin
+2018-05-23T12:05:50.402503	create_bottleneck_file	end
+2018-05-23T12:05:50.418129	create_bottleneck_file	begin
+2018-05-23T12:05:50.511885	create_bottleneck_file	end
+2018-05-23T12:05:50.511885	create_bottleneck_file	begin
+2018-05-23T12:05:50.621267	create_bottleneck_file	end
+2018-05-23T12:05:50.621267	create_bottleneck_file	begin
+2018-05-23T12:05:50.730650	create_bottleneck_file	end
+2018-05-23T12:05:50.730650	create_bottleneck_file	begin
+2018-05-23T12:05:50.824404	create_bottleneck_file	end
+2018-05-23T12:05:50.824404	create_bottleneck_file	begin
+2018-05-23T12:05:50.933787	create_bottleneck_file	end
+2018-05-23T12:05:50.933787	create_bottleneck_file	begin
+2018-05-23T12:05:51.043172	create_bottleneck_file	end
+2018-05-23T12:05:51.043172	create_bottleneck_file	begin
+2018-05-23T12:05:51.168179	create_bottleneck_file	end
+2018-05-23T12:05:51.168179	create_bottleneck_file	begin
+2018-05-23T12:05:51.277558	create_bottleneck_file	end
+2018-05-23T12:05:51.277558	create_bottleneck_file	begin
+2018-05-23T12:05:51.386939	create_bottleneck_file	end
+2018-05-23T12:05:51.386939	create_bottleneck_file	begin
+2018-05-23T12:05:51.496333	create_bottleneck_file	end
+2018-05-23T12:05:51.496333	create_bottleneck_file	begin
+2018-05-23T12:05:51.621333	create_bottleneck_file	end
+2018-05-23T12:05:51.621333	create_bottleneck_file	begin
+2018-05-23T12:05:51.730710	create_bottleneck_file	end
+2018-05-23T12:05:51.730710	create_bottleneck_file	begin
+2018-05-23T12:05:51.840108	create_bottleneck_file	end
+2018-05-23T12:05:51.840108	create_bottleneck_file	begin
+2018-05-23T12:05:51.949485	create_bottleneck_file	end
+2018-05-23T12:05:51.949485	create_bottleneck_file	begin
+2018-05-23T12:05:52.043245	create_bottleneck_file	end
+2018-05-23T12:05:52.043245	create_bottleneck_file	begin
+2018-05-23T12:05:52.152610	create_bottleneck_file	end
+2018-05-23T12:05:52.152610	create_bottleneck_file	begin
+2018-05-23T12:05:52.261992	create_bottleneck_file	end
+2018-05-23T12:05:52.261992	create_bottleneck_file	begin
+2018-05-23T12:05:52.371390	create_bottleneck_file	end
+2018-05-23T12:05:52.371390	create_bottleneck_file	begin
+2018-05-23T12:05:52.480758	create_bottleneck_file	end
+2018-05-23T12:05:52.480758	create_bottleneck_file	begin
+2018-05-23T12:05:52.590154	create_bottleneck_file	end
+2018-05-23T12:05:52.590154	create_bottleneck_file	begin
+2018-05-23T12:05:52.699520	create_bottleneck_file	end
+2018-05-23T12:05:52.699520	create_bottleneck_file	begin
+2018-05-23T12:05:52.808901	create_bottleneck_file	end
+2018-05-23T12:05:52.808901	create_bottleneck_file	begin
+2018-05-23T12:05:52.902657	create_bottleneck_file	end
+2018-05-23T12:05:52.902657	create_bottleneck_file	begin
+2018-05-23T12:05:53.012038	create_bottleneck_file	end
+2018-05-23T12:05:53.027681	create_bottleneck_file	begin
+2018-05-23T12:05:53.121443	create_bottleneck_file	end
+2018-05-23T12:05:53.121443	create_bottleneck_file	begin
+2018-05-23T12:05:53.230813	create_bottleneck_file	end
+2018-05-23T12:05:53.230813	create_bottleneck_file	begin
+2018-05-23T12:05:53.342940	create_bottleneck_file	end
+2018-05-23T12:05:53.342940	create_bottleneck_file	begin
+2018-05-23T12:05:53.452338	create_bottleneck_file	end
+2018-05-23T12:05:53.452338	create_bottleneck_file	begin
+2018-05-23T12:05:53.561704	create_bottleneck_file	end
+2018-05-23T12:05:53.561704	create_bottleneck_file	begin
+2018-05-23T12:05:53.671101	create_bottleneck_file	end
+2018-05-23T12:05:53.671101	create_bottleneck_file	begin
+2018-05-23T12:05:53.780468	create_bottleneck_file	end
+2018-05-23T12:05:53.780468	create_bottleneck_file	begin
+2018-05-23T12:05:53.889850	create_bottleneck_file	end
+2018-05-23T12:05:53.889850	create_bottleneck_file	begin
+2018-05-23T12:05:53.983605	create_bottleneck_file	end
+2018-05-23T12:05:53.983605	create_bottleneck_file	begin
+2018-05-23T12:05:54.092986	create_bottleneck_file	end
+2018-05-23T12:05:54.092986	create_bottleneck_file	begin
+2018-05-23T12:05:54.202384	create_bottleneck_file	end
+2018-05-23T12:05:54.202384	create_bottleneck_file	begin
+2018-05-23T12:05:54.311786	create_bottleneck_file	end
+2018-05-23T12:05:54.311786	create_bottleneck_file	begin
+2018-05-23T12:05:54.421184	create_bottleneck_file	end
+2018-05-23T12:05:54.421184	create_bottleneck_file	begin
+2018-05-23T12:05:54.530549	create_bottleneck_file	end
+2018-05-23T12:05:54.530549	create_bottleneck_file	begin
+2018-05-23T12:05:54.639931	create_bottleneck_file	end
+2018-05-23T12:05:54.639931	create_bottleneck_file	begin
+2018-05-23T12:05:54.733686	create_bottleneck_file	end
+2018-05-23T12:05:54.749313	create_bottleneck_file	begin
+2018-05-23T12:05:54.843068	create_bottleneck_file	end
+2018-05-23T12:05:54.843068	create_bottleneck_file	begin
+2018-05-23T12:05:54.952450	create_bottleneck_file	end
+2018-05-23T12:05:54.952450	create_bottleneck_file	begin
+2018-05-23T12:05:55.061831	create_bottleneck_file	end
+2018-05-23T12:05:55.061831	create_bottleneck_file	begin
+2018-05-23T12:05:55.186840	create_bottleneck_file	end
+2018-05-23T12:05:55.186840	create_bottleneck_file	begin
+2018-05-23T12:05:55.296221	create_bottleneck_file	end
+2018-05-23T12:05:55.296221	create_bottleneck_file	begin
+2018-05-23T12:05:55.405603	create_bottleneck_file	end
+2018-05-23T12:05:55.405603	create_bottleneck_file	begin
+2018-05-23T12:05:55.530646	create_bottleneck_file	end
+2018-05-23T12:05:55.530646	create_bottleneck_file	begin
+2018-05-23T12:05:55.639991	create_bottleneck_file	end
+2018-05-23T12:05:55.639991	create_bottleneck_file	begin
+2018-05-23T12:05:55.749374	create_bottleneck_file	end
+2018-05-23T12:05:55.749374	create_bottleneck_file	begin
+2018-05-23T12:05:55.858756	create_bottleneck_file	end
+2018-05-23T12:05:55.858756	create_bottleneck_file	begin
+2018-05-23T12:05:55.968138	create_bottleneck_file	end
+2018-05-23T12:05:55.968138	create_bottleneck_file	begin
+2018-05-23T12:05:56.077519	create_bottleneck_file	end
+2018-05-23T12:05:56.077519	create_bottleneck_file	begin
+2018-05-23T12:05:56.186902	create_bottleneck_file	end
+2018-05-23T12:05:56.186902	create_bottleneck_file	begin
+2018-05-23T12:05:56.296299	create_bottleneck_file	end
+2018-05-23T12:05:56.296299	create_bottleneck_file	begin
+2018-05-23T12:05:56.405680	create_bottleneck_file	end
+2018-05-23T12:05:56.405680	create_bottleneck_file	begin
+2018-05-23T12:05:56.515062	create_bottleneck_file	end
+2018-05-23T12:05:56.515062	create_bottleneck_file	begin
+2018-05-23T12:05:56.608817	create_bottleneck_file	end
+2018-05-23T12:05:56.608817	create_bottleneck_file	begin
+2018-05-23T12:05:56.718183	create_bottleneck_file	end
+2018-05-23T12:05:56.718183	create_bottleneck_file	begin
+2018-05-23T12:05:56.827580	create_bottleneck_file	end
+2018-05-23T12:05:56.827580	create_bottleneck_file	begin
+2018-05-23T12:05:56.952597	create_bottleneck_file	end
+2018-05-23T12:05:56.952597	create_bottleneck_file	begin
+2018-05-23T12:05:57.061954	create_bottleneck_file	end
+2018-05-23T12:05:57.061954	create_bottleneck_file	begin
+2018-05-23T12:05:57.202604	create_bottleneck_file	end
+2018-05-23T12:05:57.202604	create_bottleneck_file	begin
+2018-05-23T12:05:57.296360	create_bottleneck_file	end
+2018-05-23T12:05:57.296360	create_bottleneck_file	begin
+2018-05-23T12:05:57.405741	create_bottleneck_file	end
+2018-05-23T12:05:57.405741	create_bottleneck_file	begin
+2018-05-23T12:05:57.515124	create_bottleneck_file	end
+2018-05-23T12:05:57.515124	create_bottleneck_file	begin
+2018-05-23T12:05:57.624506	create_bottleneck_file	end
+2018-05-23T12:05:57.640131	create_bottleneck_file	begin
+2018-05-23T12:05:57.733887	create_bottleneck_file	end
+2018-05-23T12:05:57.733887	create_bottleneck_file	begin
+2018-05-23T12:05:57.843252	create_bottleneck_file	end
+2018-05-23T12:05:57.843252	create_bottleneck_file	begin
+2018-05-23T12:05:57.952634	create_bottleneck_file	end
+2018-05-23T12:05:57.952634	create_bottleneck_file	begin
+2018-05-23T12:05:58.062016	create_bottleneck_file	end
+2018-05-23T12:05:58.062016	create_bottleneck_file	begin
+2018-05-23T12:05:58.171400	create_bottleneck_file	end
+2018-05-23T12:05:58.171400	create_bottleneck_file	begin
+2018-05-23T12:05:58.280780	create_bottleneck_file	end
+2018-05-23T12:05:58.280780	create_bottleneck_file	begin
+2018-05-23T12:05:58.390161	create_bottleneck_file	end
+2018-05-23T12:05:58.390161	create_bottleneck_file	begin
+2018-05-23T12:05:58.499559	create_bottleneck_file	end
+2018-05-23T12:05:58.499559	create_bottleneck_file	begin
+2018-05-23T12:05:58.608941	create_bottleneck_file	end
+2018-05-23T12:05:58.608941	create_bottleneck_file	begin
+2018-05-23T12:05:58.718322	create_bottleneck_file	end
+2018-05-23T12:05:58.718322	create_bottleneck_file	begin
+2018-05-23T12:05:58.827700	create_bottleneck_file	end
+2018-05-23T12:05:58.827700	create_bottleneck_file	begin
+2018-05-23T12:05:58.937071	create_bottleneck_file	end
+2018-05-23T12:05:58.937071	create_bottleneck_file	begin
+2018-05-23T12:05:59.030826	create_bottleneck_file	end
+2018-05-23T12:05:59.030826	create_bottleneck_file	begin
+2018-05-23T12:05:59.140206	create_bottleneck_file	end
+2018-05-23T12:05:59.155834	create_bottleneck_file	begin
+2018-05-23T12:05:59.249597	create_bottleneck_file	end
+2018-05-23T12:05:59.249597	create_bottleneck_file	begin
+2018-05-23T12:05:59.358970	create_bottleneck_file	end
+2018-05-23T12:05:59.358970	create_bottleneck_file	begin
+2018-05-23T12:05:59.468352	create_bottleneck_file	end
+2018-05-23T12:05:59.468352	create_bottleneck_file	begin
+2018-05-23T12:05:59.577734	create_bottleneck_file	end
+2018-05-23T12:05:59.577734	create_bottleneck_file	begin
+2018-05-23T12:05:59.687131	create_bottleneck_file	end
+2018-05-23T12:05:59.687131	create_bottleneck_file	begin
+2018-05-23T12:05:59.796497	create_bottleneck_file	end
+2018-05-23T12:05:59.796497	create_bottleneck_file	begin
+2018-05-23T12:05:59.905909	create_bottleneck_file	end
+2018-05-23T12:05:59.905909	create_bottleneck_file	begin
+2018-05-23T12:06:00.015276	create_bottleneck_file	end
+2018-05-23T12:06:00.015276	create_bottleneck_file	begin
+2018-05-23T12:06:00.124643	create_bottleneck_file	end
+2018-05-23T12:06:00.124643	create_bottleneck_file	begin
+2018-05-23T12:06:00.234025	create_bottleneck_file	end
+2018-05-23T12:06:00.234025	create_bottleneck_file	begin
+2018-05-23T12:06:00.327797	create_bottleneck_file	end
+2018-05-23T12:06:00.327797	create_bottleneck_file	begin
+2018-05-23T12:06:00.452787	create_bottleneck_file	end
+2018-05-23T12:06:00.452787	create_bottleneck_file	begin
+2018-05-23T12:06:00.562185	create_bottleneck_file	end
+2018-05-23T12:06:00.577795	create_bottleneck_file	begin
+2018-05-23T12:06:00.671550	create_bottleneck_file	end
+2018-05-23T12:06:00.671550	create_bottleneck_file	begin
+2018-05-23T12:06:00.796559	create_bottleneck_file	end
+2018-05-23T12:06:00.796559	create_bottleneck_file	begin
+2018-05-23T12:06:00.905957	create_bottleneck_file	end
+2018-05-23T12:06:00.905957	create_bottleneck_file	begin
+2018-05-23T12:06:01.015334	create_bottleneck_file	end
+2018-05-23T12:06:01.015334	create_bottleneck_file	begin
+2018-05-23T12:06:01.124720	create_bottleneck_file	end
+2018-05-23T12:06:01.124720	create_bottleneck_file	begin
+2018-05-23T12:06:01.296604	create_bottleneck_file	end
+2018-05-23T12:06:01.296604	create_bottleneck_file	begin
+2018-05-23T12:06:01.405971	create_bottleneck_file	end
+2018-05-23T12:06:01.405971	create_bottleneck_file	begin
+2018-05-23T12:06:01.515369	create_bottleneck_file	end
+2018-05-23T12:06:01.515369	create_bottleneck_file	begin
+2018-05-23T12:06:01.624734	create_bottleneck_file	end
+2018-05-23T12:06:01.624734	create_bottleneck_file	begin
+2018-05-23T12:06:01.734115	create_bottleneck_file	end
+2018-05-23T12:06:01.734115	create_bottleneck_file	begin
+2018-05-23T12:06:01.859141	create_bottleneck_file	end
+2018-05-23T12:06:01.859141	create_bottleneck_file	begin
+2018-05-23T12:06:01.968505	create_bottleneck_file	end
+2018-05-23T12:06:01.968505	create_bottleneck_file	begin
+2018-05-23T12:06:02.077887	create_bottleneck_file	end
+2018-05-23T12:06:02.077887	create_bottleneck_file	begin
+2018-05-23T12:06:02.187269	create_bottleneck_file	end
+2018-05-23T12:06:02.187269	create_bottleneck_file	begin
+2018-05-23T12:06:02.296684	create_bottleneck_file	end
+2018-05-23T12:06:02.296684	create_bottleneck_file	begin
+2018-05-23T12:06:02.402630	create_bottleneck_file	end
+2018-05-23T12:06:02.402630	create_bottleneck_file	begin
+2018-05-23T12:06:02.512014	create_bottleneck_file	end
+2018-05-23T12:06:02.512014	create_bottleneck_file	begin
+2018-05-23T12:06:02.621394	create_bottleneck_file	end
+2018-05-23T12:06:02.621394	create_bottleneck_file	begin
+2018-05-23T12:06:02.730776	create_bottleneck_file	end
+2018-05-23T12:06:02.730776	create_bottleneck_file	begin
+2018-05-23T12:06:02.840170	create_bottleneck_file	end
+2018-05-23T12:06:02.840170	create_bottleneck_file	begin
+2018-05-23T12:06:02.949556	create_bottleneck_file	end
+2018-05-23T12:06:02.949556	create_bottleneck_file	begin
+2018-05-23T12:06:03.058922	create_bottleneck_file	end
+2018-05-23T12:06:03.058922	create_bottleneck_file	begin
+2018-05-23T12:06:03.168304	create_bottleneck_file	end
+2018-05-23T12:06:03.168304	create_bottleneck_file	begin
+2018-05-23T12:06:03.277702	create_bottleneck_file	end
+2018-05-23T12:06:03.277702	create_bottleneck_file	begin
+2018-05-23T12:06:03.387066	create_bottleneck_file	end
+2018-05-23T12:06:03.387066	create_bottleneck_file	begin
+2018-05-23T12:06:03.496449	create_bottleneck_file	end
+2018-05-23T12:06:03.496449	create_bottleneck_file	begin
+2018-05-23T12:06:03.605829	create_bottleneck_file	end
+2018-05-23T12:06:03.605829	create_bottleneck_file	begin
+2018-05-23T12:06:03.715217	create_bottleneck_file	end
+2018-05-23T12:06:03.715217	create_bottleneck_file	begin
+2018-05-23T12:06:03.840228	create_bottleneck_file	end
+2018-05-23T12:06:03.840228	create_bottleneck_file	begin
+2018-05-23T12:06:03.949601	create_bottleneck_file	end
+2018-05-23T12:06:03.949601	create_bottleneck_file	begin
+2018-05-23T12:06:04.043356	create_bottleneck_file	end
+2018-05-23T12:06:04.043356	create_bottleneck_file	begin
+2018-05-23T12:06:04.152739	create_bottleneck_file	end
+2018-05-23T12:06:04.152739	create_bottleneck_file	begin
+2018-05-23T12:06:04.262121	create_bottleneck_file	end
+2018-05-23T12:06:04.262121	create_bottleneck_file	begin
+2018-05-23T12:06:04.375981	create_bottleneck_file	end
+2018-05-23T12:06:04.375981	create_bottleneck_file	begin
+2018-05-23T12:06:04.469735	create_bottleneck_file	end
+2018-05-23T12:06:04.485361	create_bottleneck_file	begin
+2018-05-23T12:06:04.594743	create_bottleneck_file	end
+2018-05-23T12:06:04.594743	create_bottleneck_file	begin
+2018-05-23T12:06:04.704126	create_bottleneck_file	end
+2018-05-23T12:06:04.704126	create_bottleneck_file	begin
+2018-05-23T12:06:04.797880	create_bottleneck_file	end
+2018-05-23T12:06:04.797880	create_bottleneck_file	begin
+2018-05-23T12:06:04.907277	create_bottleneck_file	end
+2018-05-23T12:06:04.907277	create_bottleneck_file	begin
+2018-05-23T12:06:05.016660	create_bottleneck_file	end
+2018-05-23T12:06:05.016660	create_bottleneck_file	begin
+2018-05-23T12:06:05.126033	create_bottleneck_file	end
+2018-05-23T12:06:05.126033	create_bottleneck_file	begin
+2018-05-23T12:06:05.235407	create_bottleneck_file	end
+2018-05-23T12:06:05.235407	create_bottleneck_file	begin
+2018-05-23T12:06:05.345705	create_bottleneck_file	end
+2018-05-23T12:06:05.345705	create_bottleneck_file	begin
+2018-05-23T12:06:05.455087	create_bottleneck_file	end
+2018-05-23T12:06:05.455087	create_bottleneck_file	begin
+2018-05-23T12:06:05.548843	create_bottleneck_file	end
+2018-05-23T12:06:05.548843	create_bottleneck_file	begin
+2018-05-23T12:06:05.658225	create_bottleneck_file	end
+2018-05-23T12:06:05.658225	create_bottleneck_file	begin
+2018-05-23T12:06:05.767607	create_bottleneck_file	end
+2018-05-23T12:06:05.767607	create_bottleneck_file	begin
+2018-05-23T12:06:05.876987	create_bottleneck_file	end
+2018-05-23T12:06:05.876987	create_bottleneck_file	begin
+2018-05-23T12:06:05.986369	create_bottleneck_file	end
+2018-05-23T12:06:05.986369	create_bottleneck_file	begin
+2018-05-23T12:06:06.095752	create_bottleneck_file	end
+2018-05-23T12:06:06.095752	create_bottleneck_file	begin
+2018-05-23T12:06:06.205149	create_bottleneck_file	end
+2018-05-23T12:06:06.205149	create_bottleneck_file	begin
+2018-05-23T12:06:06.314514	create_bottleneck_file	end
+2018-05-23T12:06:06.314514	create_bottleneck_file	begin
+2018-05-23T12:06:06.423897	create_bottleneck_file	end
+2018-05-23T12:06:06.423897	create_bottleneck_file	begin
+2018-05-23T12:06:06.517652	create_bottleneck_file	end
+2018-05-23T12:06:06.517652	create_bottleneck_file	begin
+2018-05-23T12:06:06.627034	create_bottleneck_file	end
+2018-05-23T12:06:06.627034	create_bottleneck_file	begin
+2018-05-23T12:06:06.752058	create_bottleneck_file	end
+2018-05-23T12:06:06.752058	create_bottleneck_file	begin
+2018-05-23T12:06:06.877070	create_bottleneck_file	end
+2018-05-23T12:06:06.877070	create_bottleneck_file	begin
+2018-05-23T12:06:06.986431	create_bottleneck_file	end
+2018-05-23T12:06:06.986431	create_bottleneck_file	begin
+2018-05-23T12:06:07.095814	create_bottleneck_file	end
+2018-05-23T12:06:07.095814	create_bottleneck_file	begin
+2018-05-23T12:06:07.205195	create_bottleneck_file	end
+2018-05-23T12:06:07.205195	create_bottleneck_file	begin
+2018-05-23T12:06:07.314576	create_bottleneck_file	end
+2018-05-23T12:06:07.314576	create_bottleneck_file	begin
+2018-05-23T12:06:07.423959	create_bottleneck_file	end
+2018-05-23T12:06:07.423959	create_bottleneck_file	begin
+2018-05-23T12:06:07.517715	create_bottleneck_file	end
+2018-05-23T12:06:07.517715	create_bottleneck_file	begin
+2018-05-23T12:06:07.658348	create_bottleneck_file	end
+2018-05-23T12:06:07.658348	create_bottleneck_file	begin
+2018-05-23T12:06:07.767730	create_bottleneck_file	end
+2018-05-23T12:06:07.767730	create_bottleneck_file	begin
+2018-05-23T12:06:07.861501	create_bottleneck_file	end
+2018-05-23T12:06:07.861501	create_bottleneck_file	begin
+2018-05-23T12:06:07.970867	create_bottleneck_file	end
+2018-05-23T12:06:07.970867	create_bottleneck_file	begin
+2018-05-23T12:06:08.080249	create_bottleneck_file	end
+2018-05-23T12:06:08.080249	create_bottleneck_file	begin
+2018-05-23T12:06:08.189630	create_bottleneck_file	end
+2018-05-23T12:06:08.189630	create_bottleneck_file	begin
+2018-05-23T12:06:08.299012	create_bottleneck_file	end
+2018-05-23T12:06:08.299012	create_bottleneck_file	begin
+2018-05-23T12:06:08.408395	create_bottleneck_file	end
+2018-05-23T12:06:08.408395	create_bottleneck_file	begin
+2018-05-23T12:06:08.517791	create_bottleneck_file	end
+2018-05-23T12:06:08.517791	create_bottleneck_file	begin
+2018-05-23T12:06:08.627174	create_bottleneck_file	end
+2018-05-23T12:06:08.627174	create_bottleneck_file	begin
+2018-05-23T12:06:08.736539	create_bottleneck_file	end
+2018-05-23T12:06:08.736539	create_bottleneck_file	begin
+2018-05-23T12:06:08.830311	create_bottleneck_file	end
+2018-05-23T12:06:08.845921	create_bottleneck_file	begin
+2018-05-23T12:06:08.939693	create_bottleneck_file	end
+2018-05-23T12:06:08.939693	create_bottleneck_file	begin
+2018-05-23T12:06:09.049058	create_bottleneck_file	end
+2018-05-23T12:06:09.049058	create_bottleneck_file	begin
+2018-05-23T12:06:09.158439	create_bottleneck_file	end
+2018-05-23T12:06:09.158439	create_bottleneck_file	begin
+2018-05-23T12:06:09.267821	create_bottleneck_file	end
+2018-05-23T12:06:09.267821	create_bottleneck_file	begin
+2018-05-23T12:06:09.377220	create_bottleneck_file	end
+2018-05-23T12:06:09.377220	create_bottleneck_file	begin
+2018-05-23T12:06:09.486601	create_bottleneck_file	end
+2018-05-23T12:06:09.486601	create_bottleneck_file	begin
+2018-05-23T12:06:09.595983	create_bottleneck_file	end
+2018-05-23T12:06:09.595983	create_bottleneck_file	begin
+2018-05-23T12:06:09.705348	create_bottleneck_file	end
+2018-05-23T12:06:09.705348	create_bottleneck_file	begin
+2018-05-23T12:06:09.814731	create_bottleneck_file	end
+2018-05-23T12:06:09.814731	create_bottleneck_file	begin
+2018-05-23T12:06:09.924112	create_bottleneck_file	end
+2018-05-23T12:06:09.924112	create_bottleneck_file	begin
+2018-05-23T12:06:10.017867	create_bottleneck_file	end
+2018-05-23T12:06:10.017867	create_bottleneck_file	begin
+2018-05-23T12:06:10.127249	create_bottleneck_file	end
+2018-05-23T12:06:10.127249	create_bottleneck_file	begin
+2018-05-23T12:06:10.236632	create_bottleneck_file	end
+2018-05-23T12:06:10.236632	create_bottleneck_file	begin
+2018-05-23T12:06:10.346061	create_bottleneck_file	end
+2018-05-23T12:06:10.346061	create_bottleneck_file	begin
+2018-05-23T12:06:10.455441	create_bottleneck_file	end
+2018-05-23T12:06:10.455441	create_bottleneck_file	begin
+2018-05-23T12:06:10.564823	create_bottleneck_file	end
+2018-05-23T12:06:10.564823	create_bottleneck_file	begin
+2018-05-23T12:06:10.674204	create_bottleneck_file	end
+2018-05-23T12:06:10.674204	create_bottleneck_file	begin
+2018-05-23T12:06:10.783586	create_bottleneck_file	end
+2018-05-23T12:06:10.783586	create_bottleneck_file	begin
+2018-05-23T12:06:10.884918	create_bottleneck_file	end
+2018-05-23T12:06:10.884918	create_bottleneck_file	begin
+2018-05-23T12:06:11.009943	create_bottleneck_file	end
+2018-05-23T12:06:11.009943	create_bottleneck_file	begin
+2018-05-23T12:06:11.119308	create_bottleneck_file	end
+2018-05-23T12:06:11.119308	create_bottleneck_file	begin
+2018-05-23T12:06:11.228690	create_bottleneck_file	end
+2018-05-23T12:06:11.228690	create_bottleneck_file	begin
+2018-05-23T12:06:11.338074	create_bottleneck_file	end
+2018-05-23T12:06:11.338074	create_bottleneck_file	begin
+2018-05-23T12:06:11.431828	create_bottleneck_file	end
+2018-05-23T12:06:11.447454	create_bottleneck_file	begin
+2018-05-23T12:06:11.541221	create_bottleneck_file	end
+2018-05-23T12:06:11.541221	create_bottleneck_file	begin
+2018-05-23T12:06:11.650607	create_bottleneck_file	end
+2018-05-23T12:06:11.650607	create_bottleneck_file	begin
+2018-05-23T12:06:11.759974	create_bottleneck_file	end
+2018-05-23T12:06:11.759974	create_bottleneck_file	begin
+2018-05-23T12:06:11.884997	create_bottleneck_file	end
+2018-05-23T12:06:11.884997	create_bottleneck_file	begin
+2018-05-23T12:06:11.994362	create_bottleneck_file	end
+2018-05-23T12:06:11.994362	create_bottleneck_file	begin
+2018-05-23T12:06:12.103745	create_bottleneck_file	end
+2018-05-23T12:06:12.103745	create_bottleneck_file	begin
+2018-05-23T12:06:12.213125	create_bottleneck_file	end
+2018-05-23T12:06:12.213125	create_bottleneck_file	begin
+2018-05-23T12:06:12.322507	create_bottleneck_file	end
+2018-05-23T12:06:12.322507	create_bottleneck_file	begin
+2018-05-23T12:06:12.431889	create_bottleneck_file	end
+2018-05-23T12:06:12.431889	create_bottleneck_file	begin
+2018-05-23T12:06:12.525644	create_bottleneck_file	end
+2018-05-23T12:06:12.541271	create_bottleneck_file	begin
+2018-05-23T12:06:12.635026	create_bottleneck_file	end
+2018-05-23T12:06:12.635026	create_bottleneck_file	begin
+2018-05-23T12:06:12.744408	create_bottleneck_file	end
+2018-05-23T12:06:12.744408	create_bottleneck_file	begin
+2018-05-23T12:06:12.853790	create_bottleneck_file	end
+2018-05-23T12:06:12.853790	create_bottleneck_file	begin
+2018-05-23T12:06:12.963171	create_bottleneck_file	end
+2018-05-23T12:06:12.963171	create_bottleneck_file	begin
+2018-05-23T12:06:13.072553	create_bottleneck_file	end
+2018-05-23T12:06:13.072553	create_bottleneck_file	begin
+2018-05-23T12:06:13.181935	create_bottleneck_file	end
+2018-05-23T12:06:13.181935	create_bottleneck_file	begin
+2018-05-23T12:06:13.291318	create_bottleneck_file	end
+2018-05-23T12:06:13.291318	create_bottleneck_file	begin
+2018-05-23T12:06:13.400702	create_bottleneck_file	end
+2018-05-23T12:06:13.400702	create_bottleneck_file	begin
+2018-05-23T12:06:13.510080	create_bottleneck_file	end
+2018-05-23T12:06:13.510080	create_bottleneck_file	begin
+2018-05-23T12:06:13.619464	create_bottleneck_file	end
+2018-05-23T12:06:13.619464	create_bottleneck_file	begin
+2018-05-23T12:06:13.728843	create_bottleneck_file	end
+2018-05-23T12:06:13.728843	create_bottleneck_file	begin
+2018-05-23T12:06:13.838237	create_bottleneck_file	end
+2018-05-23T12:06:13.838237	create_bottleneck_file	begin
+2018-05-23T12:06:13.947609	create_bottleneck_file	end
+2018-05-23T12:06:13.947609	create_bottleneck_file	begin
+2018-05-23T12:06:14.041362	create_bottleneck_file	end
+2018-05-23T12:06:14.041362	create_bottleneck_file	begin
+2018-05-23T12:06:14.150745	create_bottleneck_file	end
+2018-05-23T12:06:14.150745	create_bottleneck_file	begin
+2018-05-23T12:06:14.260143	create_bottleneck_file	end
+2018-05-23T12:06:14.260143	create_bottleneck_file	begin
+2018-05-23T12:06:14.369510	create_bottleneck_file	end
+2018-05-23T12:06:14.369510	create_bottleneck_file	begin
+2018-05-23T12:06:14.463280	create_bottleneck_file	end
+2018-05-23T12:06:14.463280	create_bottleneck_file	begin
+2018-05-23T12:06:14.603913	create_bottleneck_file	end
+2018-05-23T12:06:14.603913	create_bottleneck_file	begin
+2018-05-23T12:06:14.713278	create_bottleneck_file	end
+2018-05-23T12:06:14.713278	create_bottleneck_file	begin
+2018-05-23T12:06:14.822666	create_bottleneck_file	end
+2018-05-23T12:06:14.822666	create_bottleneck_file	begin
+2018-05-23T12:06:14.916432	create_bottleneck_file	end
+2018-05-23T12:06:14.916432	create_bottleneck_file	begin
+2018-05-23T12:06:15.025798	create_bottleneck_file	end
+2018-05-23T12:06:15.025798	create_bottleneck_file	begin
+2018-05-23T12:06:15.135180	create_bottleneck_file	end
+2018-05-23T12:06:15.135180	create_bottleneck_file	begin
+2018-05-23T12:06:15.244561	create_bottleneck_file	end
+2018-05-23T12:06:15.244561	create_bottleneck_file	begin
+2018-05-23T12:06:15.353943	create_bottleneck_file	end
+2018-05-23T12:06:15.353943	create_bottleneck_file	begin
+2018-05-23T12:06:15.463325	create_bottleneck_file	end
+2018-05-23T12:06:15.463325	create_bottleneck_file	begin
+2018-05-23T12:06:15.572708	create_bottleneck_file	end
+2018-05-23T12:06:15.572708	create_bottleneck_file	begin
+2018-05-23T12:06:15.682105	create_bottleneck_file	end
+2018-05-23T12:06:15.682105	create_bottleneck_file	begin
+2018-05-23T12:06:15.791487	create_bottleneck_file	end
+2018-05-23T12:06:15.791487	create_bottleneck_file	begin
+2018-05-23T12:06:15.900868	create_bottleneck_file	end
+2018-05-23T12:06:15.900868	create_bottleneck_file	begin
+2018-05-23T12:06:16.041487	create_bottleneck_file	end
+2018-05-23T12:06:16.041487	create_bottleneck_file	begin
+2018-05-23T12:06:16.135258	create_bottleneck_file	end
+2018-05-23T12:06:16.150867	create_bottleneck_file	begin
+2018-05-23T12:06:16.244624	create_bottleneck_file	end
+2018-05-23T12:06:16.244624	create_bottleneck_file	begin
+2018-05-23T12:06:16.354021	create_bottleneck_file	end
+2018-05-23T12:06:16.354021	create_bottleneck_file	begin
+2018-05-23T12:06:16.463403	create_bottleneck_file	end
+2018-05-23T12:06:16.463403	create_bottleneck_file	begin
+2018-05-23T12:06:16.572769	create_bottleneck_file	end
+2018-05-23T12:06:16.572769	create_bottleneck_file	begin
+2018-05-23T12:06:16.682151	create_bottleneck_file	end
+2018-05-23T12:06:16.682151	create_bottleneck_file	begin
+2018-05-23T12:06:16.791533	create_bottleneck_file	end
+2018-05-23T12:06:16.791533	create_bottleneck_file	begin
+2018-05-23T12:06:16.900915	create_bottleneck_file	end
+2018-05-23T12:06:16.900915	create_bottleneck_file	begin
+2018-05-23T12:06:16.994669	create_bottleneck_file	end
+2018-05-23T12:06:16.994669	create_bottleneck_file	begin
+2018-05-23T12:06:17.104051	create_bottleneck_file	end
+2018-05-23T12:06:17.104051	create_bottleneck_file	begin
+2018-05-23T12:06:17.213440	create_bottleneck_file	end
+2018-05-23T12:06:17.213440	create_bottleneck_file	begin
+2018-05-23T12:06:17.322813	create_bottleneck_file	end
+2018-05-23T12:06:17.322813	create_bottleneck_file	begin
+2018-05-23T12:06:17.432197	create_bottleneck_file	end
+2018-05-23T12:06:17.432197	create_bottleneck_file	begin
+2018-05-23T12:06:17.557203	create_bottleneck_file	end
+2018-05-23T12:06:17.557203	create_bottleneck_file	begin
+2018-05-23T12:06:17.666586	create_bottleneck_file	end
+2018-05-23T12:06:17.666586	create_bottleneck_file	begin
+2018-05-23T12:06:17.791609	create_bottleneck_file	end
+2018-05-23T12:06:17.791609	create_bottleneck_file	begin
+2018-05-23T12:06:17.916616	create_bottleneck_file	end
+2018-05-23T12:06:17.916616	create_bottleneck_file	begin
+2018-05-23T12:06:18.041608	create_bottleneck_file	end
+2018-05-23T12:06:18.041608	create_bottleneck_file	begin
+2018-05-23T12:06:18.197868	create_bottleneck_file	end
+2018-05-23T12:06:18.197868	create_bottleneck_file	begin
+2018-05-23T12:06:18.291623	create_bottleneck_file	end
+2018-05-23T12:06:18.291623	create_bottleneck_file	begin
+2018-05-23T12:06:18.401036	create_bottleneck_file	end
+2018-05-23T12:06:18.401036	create_bottleneck_file	begin
+2018-05-23T12:06:18.526024	create_bottleneck_file	end
+2018-05-23T12:06:18.526024	create_bottleneck_file	begin
+2018-05-23T12:06:18.635396	create_bottleneck_file	end
+2018-05-23T12:06:18.635396	create_bottleneck_file	begin
+2018-05-23T12:06:18.744776	create_bottleneck_file	end
+2018-05-23T12:06:18.744776	create_bottleneck_file	begin
+2018-05-23T12:06:18.854158	create_bottleneck_file	end
+2018-05-23T12:06:18.854158	create_bottleneck_file	begin
+2018-05-23T12:06:18.963540	create_bottleneck_file	end
+2018-05-23T12:06:18.963540	create_bottleneck_file	begin
+2018-05-23T12:06:19.088547	create_bottleneck_file	end
+2018-05-23T12:06:19.088547	create_bottleneck_file	begin
+2018-05-23T12:06:19.197929	create_bottleneck_file	end
+2018-05-23T12:06:19.197929	create_bottleneck_file	begin
+2018-05-23T12:06:19.325712	create_bottleneck_file	end
+2018-05-23T12:06:19.325712	create_bottleneck_file	begin
+2018-05-23T12:06:19.435095	create_bottleneck_file	end
+2018-05-23T12:06:19.435095	create_bottleneck_file	begin
+2018-05-23T12:06:19.544477	create_bottleneck_file	end
+2018-05-23T12:06:19.544477	create_bottleneck_file	begin
+2018-05-23T12:06:19.669487	create_bottleneck_file	end
+2018-05-23T12:06:19.669487	create_bottleneck_file	begin
+2018-05-23T12:06:19.778867	create_bottleneck_file	end
+2018-05-23T12:06:19.778867	create_bottleneck_file	begin
+2018-05-23T12:06:19.919501	create_bottleneck_file	end
+2018-05-23T12:06:19.919501	create_bottleneck_file	begin
+2018-05-23T12:06:20.013282	create_bottleneck_file	end
+2018-05-23T12:06:20.028882	create_bottleneck_file	begin
+2018-05-23T12:06:20.122638	create_bottleneck_file	end
+2018-05-23T12:06:20.122638	create_bottleneck_file	begin
+2018-05-23T12:06:20.247662	create_bottleneck_file	end
+2018-05-23T12:06:20.247662	create_bottleneck_file	begin
+2018-05-23T12:06:20.341413	create_bottleneck_file	end
+2018-05-23T12:06:20.341413	create_bottleneck_file	begin
+2018-05-23T12:06:20.450799	create_bottleneck_file	end
+2018-05-23T12:06:20.450799	create_bottleneck_file	begin
+2018-05-23T12:06:20.560181	create_bottleneck_file	end
+2018-05-23T12:06:20.560181	create_bottleneck_file	begin
+2018-05-23T12:06:20.685181	create_bottleneck_file	end
+2018-05-23T12:06:20.685181	create_bottleneck_file	begin
+2018-05-23T12:06:20.794554	create_bottleneck_file	end
+2018-05-23T12:06:20.794554	create_bottleneck_file	begin
+2018-05-23T12:06:20.903936	create_bottleneck_file	end
+2018-05-23T12:06:20.903936	create_bottleneck_file	begin
+2018-05-23T12:06:21.013333	create_bottleneck_file	end
+2018-05-23T12:06:21.013333	create_bottleneck_file	begin
+2018-05-23T12:06:21.122701	create_bottleneck_file	end
+2018-05-23T12:06:21.122701	create_bottleneck_file	begin
+2018-05-23T12:06:21.232081	create_bottleneck_file	end
+2018-05-23T12:06:21.232081	create_bottleneck_file	begin
+2018-05-23T12:06:21.341462	create_bottleneck_file	end
+2018-05-23T12:06:21.341462	create_bottleneck_file	begin
+2018-05-23T12:06:21.450846	create_bottleneck_file	end
+2018-05-23T12:06:21.450846	create_bottleneck_file	begin
+2018-05-23T12:06:21.560242	create_bottleneck_file	end
+2018-05-23T12:06:21.560242	create_bottleneck_file	begin
+2018-05-23T12:06:21.669608	create_bottleneck_file	end
+2018-05-23T12:06:21.669608	create_bottleneck_file	begin
+2018-05-23T12:06:21.778991	create_bottleneck_file	end
+2018-05-23T12:06:21.778991	create_bottleneck_file	begin
+2018-05-23T12:06:21.872745	create_bottleneck_file	end
+2018-05-23T12:06:21.872745	create_bottleneck_file	begin
+2018-05-23T12:06:21.997754	create_bottleneck_file	end
+2018-05-23T12:06:22.013380	create_bottleneck_file	begin
+2018-05-23T12:06:22.122776	create_bottleneck_file	end
+2018-05-23T12:06:22.122776	create_bottleneck_file	begin
+2018-05-23T12:06:22.247769	create_bottleneck_file	end
+2018-05-23T12:06:22.247769	create_bottleneck_file	begin
+2018-05-23T12:06:22.372776	create_bottleneck_file	end
+2018-05-23T12:06:22.388411	create_bottleneck_file	begin
+2018-05-23T12:06:22.482158	create_bottleneck_file	end
+2018-05-23T12:06:22.482158	create_bottleneck_file	begin
+2018-05-23T12:06:22.591539	create_bottleneck_file	end
+2018-05-23T12:06:22.591539	create_bottleneck_file	begin
+2018-05-23T12:06:22.732175	create_bottleneck_file	end
+2018-05-23T12:06:22.732175	create_bottleneck_file	begin
+2018-05-23T12:06:22.872815	create_bottleneck_file	end
+2018-05-23T12:06:22.872815	create_bottleneck_file	begin
+2018-05-23T12:06:23.013440	create_bottleneck_file	end
+2018-05-23T12:06:23.013440	create_bottleneck_file	begin
+2018-05-23T12:06:23.138448	create_bottleneck_file	end
+2018-05-23T12:06:23.138448	create_bottleneck_file	begin
+2018-05-23T12:06:23.279081	create_bottleneck_file	end
+2018-05-23T12:06:23.279081	create_bottleneck_file	begin
+2018-05-23T12:06:23.388477	create_bottleneck_file	end
+2018-05-23T12:06:23.388477	create_bottleneck_file	begin
+2018-05-23T12:06:23.513472	create_bottleneck_file	end
+2018-05-23T12:06:23.513472	create_bottleneck_file	begin
+2018-05-23T12:06:23.638479	create_bottleneck_file	end
+2018-05-23T12:06:23.638479	create_bottleneck_file	begin
+2018-05-23T12:06:23.779112	create_bottleneck_file	end
+2018-05-23T12:06:23.779112	create_bottleneck_file	begin
+2018-05-23T12:06:23.919745	create_bottleneck_file	end
+2018-05-23T12:06:23.919745	create_bottleneck_file	begin
+2018-05-23T12:06:24.044754	create_bottleneck_file	end
+2018-05-23T12:06:24.044754	create_bottleneck_file	begin
+2018-05-23T12:06:24.154137	create_bottleneck_file	end
+2018-05-23T12:06:24.154137	create_bottleneck_file	begin
+2018-05-23T12:06:24.279142	create_bottleneck_file	end
+2018-05-23T12:06:24.294768	create_bottleneck_file	begin
+2018-05-23T12:06:24.419776	create_bottleneck_file	end
+2018-05-23T12:06:24.419776	create_bottleneck_file	begin
+2018-05-23T12:06:24.529158	create_bottleneck_file	end
+2018-05-23T12:06:24.529158	create_bottleneck_file	begin
+2018-05-23T12:06:24.638557	create_bottleneck_file	end
+2018-05-23T12:06:24.638557	create_bottleneck_file	begin
+2018-05-23T12:06:24.763547	create_bottleneck_file	end
+2018-05-23T12:06:24.763547	create_bottleneck_file	begin
+2018-05-23T12:06:24.888556	create_bottleneck_file	end
+2018-05-23T12:06:24.888556	create_bottleneck_file	begin
+2018-05-23T12:06:25.013563	create_bottleneck_file	end
+2018-05-23T12:06:25.013563	create_bottleneck_file	begin
+2018-05-23T12:06:25.122956	create_bottleneck_file	end
+2018-05-23T12:06:25.122956	create_bottleneck_file	begin
+2018-05-23T12:06:25.232342	create_bottleneck_file	end
+2018-05-23T12:06:25.232342	create_bottleneck_file	begin
+2018-05-23T12:06:25.344049	create_bottleneck_file	end
+2018-05-23T12:06:25.344049	create_bottleneck_file	begin
+2018-05-23T12:06:25.453434	create_bottleneck_file	end
+2018-05-23T12:06:25.453434	create_bottleneck_file	begin
+2018-05-23T12:06:25.578438	create_bottleneck_file	end
+2018-05-23T12:06:25.578438	create_bottleneck_file	begin
+2018-05-23T12:06:25.687818	create_bottleneck_file	end
+2018-05-23T12:06:25.687818	create_bottleneck_file	begin
+2018-05-23T12:06:25.812826	create_bottleneck_file	end
+2018-05-23T12:06:25.812826	create_bottleneck_file	begin
+2018-05-23T12:06:25.922208	create_bottleneck_file	end
+2018-05-23T12:06:25.922208	create_bottleneck_file	begin
+2018-05-23T12:06:26.047215	create_bottleneck_file	end
+2018-05-23T12:06:26.047215	create_bottleneck_file	begin
+2018-05-23T12:06:26.156609	create_bottleneck_file	end
+2018-05-23T12:06:26.156609	create_bottleneck_file	begin
+2018-05-23T12:06:26.281605	create_bottleneck_file	end
+2018-05-23T12:06:26.281605	create_bottleneck_file	begin
+2018-05-23T12:06:26.390987	create_bottleneck_file	end
+2018-05-23T12:06:26.390987	create_bottleneck_file	begin
+2018-05-23T12:06:26.531620	create_bottleneck_file	end
+2018-05-23T12:06:26.531620	create_bottleneck_file	begin
+2018-05-23T12:06:26.641002	create_bottleneck_file	end
+2018-05-23T12:06:26.641002	create_bottleneck_file	begin
+2018-05-23T12:06:26.766009	create_bottleneck_file	end
+2018-05-23T12:06:26.766009	create_bottleneck_file	begin
+2018-05-23T12:06:26.891019	create_bottleneck_file	end
+2018-05-23T12:06:26.891019	create_bottleneck_file	begin
+2018-05-23T12:06:27.000399	create_bottleneck_file	end
+2018-05-23T12:06:27.000399	create_bottleneck_file	begin
+2018-05-23T12:06:27.094155	create_bottleneck_file	end
+2018-05-23T12:06:27.094155	create_bottleneck_file	begin
+2018-05-23T12:06:27.203537	create_bottleneck_file	end
+2018-05-23T12:06:28.578622	bottlenecks_create_load	end
+2018-05-23T12:06:29.688067	train	begin
+2018-05-23T12:06:30.328745	train_step_trainacc_N	0	58.0%	100
+2018-05-23T12:06:30.328745	train_cross_entropy	0	1.452575
+2018-05-23T12:06:30.547492	train_step_valacc_N	0	40.0%	100
+2018-05-23T12:06:31.141278	train_step_trainacc_N	10	87.0%	100
+2018-05-23T12:06:31.141278	train_cross_entropy	10	0.854146
+2018-05-23T12:06:31.188155	train_step_valacc_N	10	86.0%	100
+2018-05-23T12:06:31.719456	train_step_trainacc_N	20	90.0%	100
+2018-05-23T12:06:31.719456	train_cross_entropy	20	0.632329
+2018-05-23T12:06:31.766316	train_step_valacc_N	20	78.0%	100
+2018-05-23T12:06:32.281984	train_step_trainacc_N	30	88.0%	100
+2018-05-23T12:06:32.281984	train_cross_entropy	30	0.586715
+2018-05-23T12:06:32.344493	train_step_valacc_N	30	86.0%	100
+2018-05-23T12:06:32.860145	train_step_trainacc_N	40	93.0%	100
+2018-05-23T12:06:32.860145	train_cross_entropy	40	0.489678
+2018-05-23T12:06:32.907022	train_step_valacc_N	40	76.0%	100
+2018-05-23T12:06:33.422679	train_step_trainacc_N	50	93.0%	100
+2018-05-23T12:06:33.422679	train_cross_entropy	50	0.443047
+2018-05-23T12:06:33.485190	train_step_valacc_N	50	80.0%	100
+2018-05-23T12:06:34.000840	train_step_trainacc_N	60	95.0%	100
+2018-05-23T12:06:34.000840	train_cross_entropy	60	0.366284
+2018-05-23T12:06:34.063344	train_step_valacc_N	60	80.0%	100
+2018-05-23T12:06:34.579000	train_step_trainacc_N	70	94.0%	100
+2018-05-23T12:06:34.579000	train_cross_entropy	70	0.344234
+2018-05-23T12:06:34.625866	train_step_valacc_N	70	81.0%	100
+2018-05-23T12:06:35.141535	train_step_trainacc_N	80	93.0%	100
+2018-05-23T12:06:35.141535	train_cross_entropy	80	0.313680
+2018-05-23T12:06:35.204027	train_step_valacc_N	80	81.0%	100
+2018-05-23T12:06:35.719695	train_step_trainacc_N	90	96.0%	100
+2018-05-23T12:06:35.719695	train_cross_entropy	90	0.274677
+2018-05-23T12:06:35.766577	train_step_valacc_N	90	82.0%	100
+2018-05-23T12:06:36.297856	train_step_trainacc_N	100	94.0%	100
+2018-05-23T12:06:36.297856	train_cross_entropy	100	0.262746
+2018-05-23T12:06:36.344723	train_step_valacc_N	100	84.0%	100
+2018-05-23T12:06:36.860390	train_step_trainacc_N	110	96.0%	100
+2018-05-23T12:06:36.860390	train_cross_entropy	110	0.277472
+2018-05-23T12:06:36.907272	train_step_valacc_N	110	80.0%	100
+2018-05-23T12:06:37.438551	train_step_trainacc_N	120	96.0%	100
+2018-05-23T12:06:37.438551	train_cross_entropy	120	0.250689
+2018-05-23T12:06:37.485429	train_step_valacc_N	120	77.0%	100
+2018-05-23T12:06:38.016717	train_step_trainacc_N	130	99.0%	100
+2018-05-23T12:06:38.016717	train_cross_entropy	130	0.216563
+2018-05-23T12:06:38.063589	train_step_valacc_N	130	78.0%	100
+2018-05-23T12:06:38.594860	train_step_trainacc_N	140	98.0%	100
+2018-05-23T12:06:38.594860	train_cross_entropy	140	0.206291
+2018-05-23T12:06:38.641749	train_step_valacc_N	140	82.0%	100
+2018-05-23T12:06:39.165021	train_step_trainacc_N	150	99.0%	100
+2018-05-23T12:06:39.165021	train_cross_entropy	150	0.219822
+2018-05-23T12:06:39.211885	train_step_valacc_N	150	84.0%	100
+2018-05-23T12:06:39.727553	train_step_trainacc_N	160	96.0%	100
+2018-05-23T12:06:39.727553	train_cross_entropy	160	0.233187
+2018-05-23T12:06:39.790048	train_step_valacc_N	160	92.0%	100
+2018-05-23T12:06:40.305702	train_step_trainacc_N	170	98.0%	100
+2018-05-23T12:06:40.305702	train_cross_entropy	170	0.196641
+2018-05-23T12:06:40.352694	train_step_valacc_N	170	76.0%	100
+2018-05-23T12:06:40.883981	train_step_trainacc_N	180	96.0%	100
+2018-05-23T12:06:40.883981	train_cross_entropy	180	0.227552
+2018-05-23T12:06:40.930858	train_step_valacc_N	180	88.0%	100
+2018-05-23T12:06:41.460124	train_step_trainacc_N	190	98.0%	100
+2018-05-23T12:06:41.460124	train_cross_entropy	190	0.171970
+2018-05-23T12:06:41.507002	train_step_valacc_N	190	81.0%	100
+2018-05-23T12:06:42.022658	train_step_trainacc_N	200	95.0%	100
+2018-05-23T12:06:42.022658	train_cross_entropy	200	0.230820
+2018-05-23T12:06:42.085162	train_step_valacc_N	200	80.0%	100
+2018-05-23T12:06:42.600949	train_step_trainacc_N	210	97.0%	100
+2018-05-23T12:06:42.600949	train_cross_entropy	210	0.205891
+2018-05-23T12:06:42.647815	train_step_valacc_N	210	88.0%	100
+2018-05-23T12:06:43.179109	train_step_trainacc_N	220	98.0%	100
+2018-05-23T12:06:43.179109	train_cross_entropy	220	0.174602
+2018-05-23T12:06:43.225987	train_step_valacc_N	220	85.0%	100
+2018-05-23T12:06:43.741644	train_step_trainacc_N	230	98.0%	100
+2018-05-23T12:06:43.741644	train_cross_entropy	230	0.173837
+2018-05-23T12:06:43.804154	train_step_valacc_N	230	85.0%	100
+2018-05-23T12:06:44.319806	train_step_trainacc_N	240	98.0%	100
+2018-05-23T12:06:44.319806	train_cross_entropy	240	0.192390
+2018-05-23T12:06:44.366682	train_step_valacc_N	240	83.0%	100
+2018-05-23T12:06:44.897965	train_step_trainacc_N	250	100.0%	100
+2018-05-23T12:06:44.897965	train_cross_entropy	250	0.124433
+2018-05-23T12:06:44.944847	train_step_valacc_N	250	76.0%	100
+2018-05-23T12:06:45.476168	train_step_trainacc_N	260	98.0%	100
+2018-05-23T12:06:45.476168	train_cross_entropy	260	0.148418
+2018-05-23T12:06:45.523062	train_step_valacc_N	260	81.0%	100
+2018-05-23T12:06:46.038714	train_step_trainacc_N	270	99.0%	100
+2018-05-23T12:06:46.038714	train_cross_entropy	270	0.142679
+2018-05-23T12:06:46.101221	train_step_valacc_N	270	78.0%	100
+2018-05-23T12:06:46.616874	train_step_trainacc_N	280	98.0%	100
+2018-05-23T12:06:46.616874	train_cross_entropy	280	0.146516
+2018-05-23T12:06:46.663742	train_step_valacc_N	280	86.0%	100
+2018-05-23T12:06:47.195024	train_step_trainacc_N	290	100.0%	100
+2018-05-23T12:06:47.195024	train_cross_entropy	290	0.155006
+2018-05-23T12:06:47.241913	train_step_valacc_N	290	79.0%	100
+2018-05-23T12:06:47.773184	train_step_trainacc_N	300	100.0%	100
+2018-05-23T12:06:47.773184	train_cross_entropy	300	0.113482
+2018-05-23T12:06:47.820077	train_step_valacc_N	300	86.0%	100
+2018-05-23T12:06:48.335730	train_step_trainacc_N	310	100.0%	100
+2018-05-23T12:06:48.335730	train_cross_entropy	310	0.154798
+2018-05-23T12:06:48.398246	train_step_valacc_N	310	82.0%	100
+2018-05-23T12:06:48.913895	train_step_trainacc_N	320	100.0%	100
+2018-05-23T12:06:48.913895	train_cross_entropy	320	0.140729
+2018-05-23T12:06:48.960768	train_step_valacc_N	320	87.0%	100
+2018-05-23T12:06:49.476413	train_step_trainacc_N	330	100.0%	100
+2018-05-23T12:06:49.476413	train_cross_entropy	330	0.112440
+2018-05-23T12:06:49.538918	train_step_valacc_N	330	80.0%	100
+2018-05-23T12:06:50.054586	train_step_trainacc_N	340	100.0%	100
+2018-05-23T12:06:50.054586	train_cross_entropy	340	0.150018
+2018-05-23T12:06:50.101451	train_step_valacc_N	340	82.0%	100
+2018-05-23T12:06:50.617119	train_step_trainacc_N	350	100.0%	100
+2018-05-23T12:06:50.617119	train_cross_entropy	350	0.101541
+2018-05-23T12:06:50.679646	train_step_valacc_N	350	80.0%	100
+2018-05-23T12:06:51.195282	train_step_trainacc_N	360	100.0%	100
+2018-05-23T12:06:51.195282	train_cross_entropy	360	0.112064
+2018-05-23T12:06:51.242158	train_step_valacc_N	360	84.0%	100
+2018-05-23T12:06:51.757815	train_step_trainacc_N	370	99.0%	100
+2018-05-23T12:06:51.757815	train_cross_entropy	370	0.136509
+2018-05-23T12:06:51.820321	train_step_valacc_N	370	78.0%	100
+2018-05-23T12:06:52.335976	train_step_trainacc_N	380	100.0%	100
+2018-05-23T12:06:52.335976	train_cross_entropy	380	0.092094
+2018-05-23T12:06:52.382857	train_step_valacc_N	380	76.0%	100
+2018-05-23T12:06:52.898509	train_step_trainacc_N	390	100.0%	100
+2018-05-23T12:06:52.898509	train_cross_entropy	390	0.106362
+2018-05-23T12:06:52.961003	train_step_valacc_N	390	82.0%	100
+2018-05-23T12:06:53.476658	train_step_trainacc_N	400	100.0%	100
+2018-05-23T12:06:53.476658	train_cross_entropy	400	0.117522
+2018-05-23T12:06:53.539163	train_step_valacc_N	400	79.0%	100
+2018-05-23T12:06:54.054830	train_step_trainacc_N	410	100.0%	100
+2018-05-23T12:06:54.054830	train_cross_entropy	410	0.078654
+2018-05-23T12:06:54.101713	train_step_valacc_N	410	85.0%	100
+2018-05-23T12:06:54.632992	train_step_trainacc_N	420	100.0%	100
+2018-05-23T12:06:54.632992	train_cross_entropy	420	0.103687
+2018-05-23T12:06:54.679857	train_step_valacc_N	420	81.0%	100
+2018-05-23T12:06:55.195526	train_step_trainacc_N	430	100.0%	100
+2018-05-23T12:06:55.195526	train_cross_entropy	430	0.122768
+2018-05-23T12:06:55.258019	train_step_valacc_N	430	85.0%	100
+2018-05-23T12:06:55.773690	train_step_trainacc_N	440	100.0%	100
+2018-05-23T12:06:55.773690	train_cross_entropy	440	0.091276
+2018-05-23T12:06:55.820552	train_step_valacc_N	440	80.0%	100
+2018-05-23T12:06:56.351849	train_step_trainacc_N	450	100.0%	100
+2018-05-23T12:06:56.351849	train_cross_entropy	450	0.096143
+2018-05-23T12:06:56.398725	train_step_valacc_N	450	88.0%	100
+2018-05-23T12:06:56.930009	train_step_trainacc_N	460	100.0%	100
+2018-05-23T12:06:56.930009	train_cross_entropy	460	0.084172
+2018-05-23T12:06:56.976889	train_step_valacc_N	460	79.0%	100
+2018-05-23T12:06:57.508169	train_step_trainacc_N	470	100.0%	100
+2018-05-23T12:06:57.508169	train_cross_entropy	470	0.080537
+2018-05-23T12:06:57.555045	train_step_valacc_N	470	84.0%	100
+2018-05-23T12:06:58.070702	train_step_trainacc_N	480	100.0%	100
+2018-05-23T12:06:58.070702	train_cross_entropy	480	0.102032
+2018-05-23T12:06:58.133207	train_step_valacc_N	480	78.0%	100
+2018-05-23T12:06:58.648862	train_step_trainacc_N	490	100.0%	100
+2018-05-23T12:06:58.648862	train_cross_entropy	490	0.086085
+2018-05-23T12:06:58.695744	train_step_valacc_N	490	86.0%	100
+2018-05-23T12:06:59.227027	train_step_trainacc_N	500	100.0%	100
+2018-05-23T12:06:59.227027	train_cross_entropy	500	0.094200
+2018-05-23T12:06:59.273905	train_step_valacc_N	500	78.0%	100
+2018-05-23T12:06:59.789620	train_step_trainacc_N	510	100.0%	100
+2018-05-23T12:06:59.789620	train_cross_entropy	510	0.076693
+2018-05-23T12:06:59.852129	train_step_valacc_N	510	82.0%	100
+2018-05-23T12:07:00.367781	train_step_trainacc_N	520	100.0%	100
+2018-05-23T12:07:00.367781	train_cross_entropy	520	0.097304
+2018-05-23T12:07:00.430273	train_step_valacc_N	520	80.0%	100
+2018-05-23T12:07:00.945941	train_step_trainacc_N	530	100.0%	100
+2018-05-23T12:07:00.945941	train_cross_entropy	530	0.103875
+2018-05-23T12:07:00.992808	train_step_valacc_N	530	83.0%	100
+2018-05-23T12:07:01.515824	train_step_trainacc_N	540	100.0%	100
+2018-05-23T12:07:01.515824	train_cross_entropy	540	0.073907
+2018-05-23T12:07:01.562690	train_step_valacc_N	540	84.0%	100
+2018-05-23T12:07:02.093985	train_step_trainacc_N	550	100.0%	100
+2018-05-23T12:07:02.093985	train_cross_entropy	550	0.080145
+2018-05-23T12:07:02.140862	train_step_valacc_N	550	86.0%	100
+2018-05-23T12:07:02.672148	train_step_trainacc_N	560	100.0%	100
+2018-05-23T12:07:02.672148	train_cross_entropy	560	0.075149
+2018-05-23T12:07:02.719023	train_step_valacc_N	560	79.0%	100
+2018-05-23T12:07:03.234679	train_step_trainacc_N	570	100.0%	100
+2018-05-23T12:07:03.250310	train_cross_entropy	570	0.081871
+2018-05-23T12:07:03.297171	train_step_valacc_N	570	77.0%	100
+2018-05-23T12:07:03.828468	train_step_trainacc_N	580	100.0%	100
+2018-05-23T12:07:03.828468	train_cross_entropy	580	0.070400
+2018-05-23T12:07:03.875349	train_step_valacc_N	580	84.0%	100
+2018-05-23T12:07:04.391000	train_step_trainacc_N	590	100.0%	100
+2018-05-23T12:07:04.391000	train_cross_entropy	590	0.074662
+2018-05-23T12:07:04.453504	train_step_valacc_N	590	86.0%	100
+2018-05-23T12:07:04.969161	train_step_trainacc_N	600	100.0%	100
+2018-05-23T12:07:04.969161	train_cross_entropy	600	0.099308
+2018-05-23T12:07:05.031653	train_step_valacc_N	600	80.0%	100
+2018-05-23T12:07:05.547388	train_step_trainacc_N	610	100.0%	100
+2018-05-23T12:07:05.547388	train_cross_entropy	610	0.069533
+2018-05-23T12:07:05.594270	train_step_valacc_N	610	80.0%	100
+2018-05-23T12:07:06.109922	train_step_trainacc_N	620	100.0%	100
+2018-05-23T12:07:06.109922	train_cross_entropy	620	0.066039
+2018-05-23T12:07:06.172432	train_step_valacc_N	620	82.0%	100
+2018-05-23T12:07:06.688293	train_step_trainacc_N	630	100.0%	100
+2018-05-23T12:07:06.688293	train_cross_entropy	630	0.092040
+2018-05-23T12:07:06.750799	train_step_valacc_N	630	84.0%	100
+2018-05-23T12:07:07.266456	train_step_trainacc_N	640	100.0%	100
+2018-05-23T12:07:07.266456	train_cross_entropy	640	0.070349
+2018-05-23T12:07:07.313335	train_step_valacc_N	640	90.0%	100
+2018-05-23T12:07:07.828988	train_step_trainacc_N	650	99.0%	100
+2018-05-23T12:07:07.828988	train_cross_entropy	650	0.089501
+2018-05-23T12:07:07.891493	train_step_valacc_N	650	85.0%	100
+2018-05-23T12:07:08.407148	train_step_trainacc_N	660	100.0%	100
+2018-05-23T12:07:08.407148	train_cross_entropy	660	0.074516
+2018-05-23T12:07:08.454026	train_step_valacc_N	660	81.0%	100
+2018-05-23T12:07:08.985298	train_step_trainacc_N	670	100.0%	100
+2018-05-23T12:07:08.985298	train_cross_entropy	670	0.066018
+2018-05-23T12:07:09.032174	train_step_valacc_N	670	78.0%	100
+2018-05-23T12:07:09.547843	train_step_trainacc_N	680	100.0%	100
+2018-05-23T12:07:09.547843	train_cross_entropy	680	0.070904
+2018-05-23T12:07:09.610350	train_step_valacc_N	680	84.0%	100
+2018-05-23T12:07:10.126007	train_step_trainacc_N	690	100.0%	100
+2018-05-23T12:07:10.126007	train_cross_entropy	690	0.058384
+2018-05-23T12:07:10.172881	train_step_valacc_N	690	81.0%	100
+2018-05-23T12:07:10.704164	train_step_trainacc_N	700	100.0%	100
+2018-05-23T12:07:10.704164	train_cross_entropy	700	0.058535
+2018-05-23T12:07:10.751046	train_step_valacc_N	700	83.0%	100
+2018-05-23T12:07:11.282314	train_step_trainacc_N	710	100.0%	100
+2018-05-23T12:07:11.282314	train_cross_entropy	710	0.078120
+2018-05-23T12:07:11.329206	train_step_valacc_N	710	83.0%	100
+2018-05-23T12:07:11.847867	train_step_trainacc_N	720	100.0%	100
+2018-05-23T12:07:11.847867	train_cross_entropy	720	0.059012
+2018-05-23T12:07:11.910359	train_step_valacc_N	720	88.0%	100
+2018-05-23T12:07:12.426027	train_step_trainacc_N	730	100.0%	100
+2018-05-23T12:07:12.426027	train_cross_entropy	730	0.061958
+2018-05-23T12:07:12.472893	train_step_valacc_N	730	77.0%	100
+2018-05-23T12:07:12.988562	train_step_trainacc_N	740	100.0%	100
+2018-05-23T12:07:12.988562	train_cross_entropy	740	0.062919
+2018-05-23T12:07:13.051054	train_step_valacc_N	740	83.0%	100
+2018-05-23T12:07:13.566722	train_step_trainacc_N	750	100.0%	100
+2018-05-23T12:07:13.566722	train_cross_entropy	750	0.056482
+2018-05-23T12:07:13.629229	train_step_valacc_N	750	85.0%	100
+2018-05-23T12:07:14.144885	train_step_trainacc_N	760	100.0%	100
+2018-05-23T12:07:14.144885	train_cross_entropy	760	0.054292
+2018-05-23T12:07:14.191760	train_step_valacc_N	760	76.0%	100
+2018-05-23T12:07:14.723045	train_step_trainacc_N	770	100.0%	100
+2018-05-23T12:07:14.723045	train_cross_entropy	770	0.052960
+2018-05-23T12:07:14.769921	train_step_valacc_N	770	86.0%	100
+2018-05-23T12:07:15.296818	train_step_trainacc_N	780	100.0%	100
+2018-05-23T12:07:15.296818	train_cross_entropy	780	0.069917
+2018-05-23T12:07:15.343706	train_step_valacc_N	780	79.0%	100
+2018-05-23T12:07:15.859363	train_step_trainacc_N	790	100.0%	100
+2018-05-23T12:07:15.859363	train_cross_entropy	790	0.059342
+2018-05-23T12:07:15.921857	train_step_valacc_N	790	90.0%	100
+2018-05-23T12:07:16.437527	train_step_trainacc_N	800	100.0%	100
+2018-05-23T12:07:16.437527	train_cross_entropy	800	0.056549
+2018-05-23T12:07:16.484403	train_step_valacc_N	800	76.0%	100
+2018-05-23T12:07:17.000058	train_step_trainacc_N	810	99.0%	100
+2018-05-23T12:07:17.000058	train_cross_entropy	810	0.060658
+2018-05-23T12:07:17.062570	train_step_valacc_N	810	81.0%	100
+2018-05-23T12:07:17.578218	train_step_trainacc_N	820	99.0%	100
+2018-05-23T12:07:17.578218	train_cross_entropy	820	0.060304
+2018-05-23T12:07:17.625084	train_step_valacc_N	820	81.0%	100
+2018-05-23T12:07:18.156384	train_step_trainacc_N	830	100.0%	100
+2018-05-23T12:07:18.156384	train_cross_entropy	830	0.052344
+2018-05-23T12:07:18.203257	train_step_valacc_N	830	82.0%	100
+2018-05-23T12:07:18.718914	train_step_trainacc_N	840	100.0%	100
+2018-05-23T12:07:18.718914	train_cross_entropy	840	0.068350
+2018-05-23T12:07:18.781419	train_step_valacc_N	840	80.0%	100
+2018-05-23T12:07:19.297073	train_step_trainacc_N	850	100.0%	100
+2018-05-23T12:07:19.297073	train_cross_entropy	850	0.051927
+2018-05-23T12:07:19.343956	train_step_valacc_N	850	76.0%	100
+2018-05-23T12:07:19.875234	train_step_trainacc_N	860	100.0%	100
+2018-05-23T12:07:19.875234	train_cross_entropy	860	0.045555
+2018-05-23T12:07:19.922100	train_step_valacc_N	860	83.0%	100
+2018-05-23T12:07:20.453394	train_step_trainacc_N	870	100.0%	100
+2018-05-23T12:07:20.453394	train_cross_entropy	870	0.059203
+2018-05-23T12:07:20.500261	train_step_valacc_N	870	79.0%	100
+2018-05-23T12:07:21.031557	train_step_trainacc_N	880	100.0%	100
+2018-05-23T12:07:21.031557	train_cross_entropy	880	0.059904
+2018-05-23T12:07:21.078439	train_step_valacc_N	880	84.0%	100
+2018-05-23T12:07:21.609716	train_step_trainacc_N	890	100.0%	100
+2018-05-23T12:07:21.609716	train_cross_entropy	890	0.043368
+2018-05-23T12:07:21.656597	train_step_valacc_N	890	84.0%	100
+2018-05-23T12:07:22.172250	train_step_trainacc_N	900	100.0%	100
+2018-05-23T12:07:22.172250	train_cross_entropy	900	0.060429
+2018-05-23T12:07:22.234754	train_step_valacc_N	900	84.0%	100
+2018-05-23T12:07:22.750410	train_step_trainacc_N	910	100.0%	100
+2018-05-23T12:07:22.750410	train_cross_entropy	910	0.058542
+2018-05-23T12:07:22.812916	train_step_valacc_N	910	82.0%	100
+2018-05-23T12:07:23.328571	train_step_trainacc_N	920	100.0%	100
+2018-05-23T12:07:23.328571	train_cross_entropy	920	0.067403
+2018-05-23T12:07:23.375450	train_step_valacc_N	920	82.0%	100
+2018-05-23T12:07:23.906734	train_step_trainacc_N	930	100.0%	100
+2018-05-23T12:07:23.906734	train_cross_entropy	930	0.045032
+2018-05-23T12:07:23.953599	train_step_valacc_N	930	84.0%	100
+2018-05-23T12:07:24.469336	train_step_trainacc_N	940	100.0%	100
+2018-05-23T12:07:24.469336	train_cross_entropy	940	0.051418
+2018-05-23T12:07:24.531843	train_step_valacc_N	940	81.0%	100
+2018-05-23T12:07:25.047497	train_step_trainacc_N	950	100.0%	100
+2018-05-23T12:07:25.047497	train_cross_entropy	950	0.058280
+2018-05-23T12:07:25.094375	train_step_valacc_N	950	88.0%	100
+2018-05-23T12:07:25.625660	train_step_trainacc_N	960	100.0%	100
+2018-05-23T12:07:25.625660	train_cross_entropy	960	0.050611
+2018-05-23T12:07:25.672540	train_step_valacc_N	960	79.0%	100
+2018-05-23T12:07:26.188192	train_step_trainacc_N	970	100.0%	100
+2018-05-23T12:07:26.188192	train_cross_entropy	970	0.034939
+2018-05-23T12:07:26.250684	train_step_valacc_N	970	85.0%	100
+2018-05-23T12:07:26.766407	train_step_trainacc_N	980	100.0%	100
+2018-05-23T12:07:26.766407	train_cross_entropy	980	0.040613
+2018-05-23T12:07:26.813284	train_step_valacc_N	980	83.0%	100
+2018-05-23T12:07:27.344567	train_step_trainacc_N	990	100.0%	100
+2018-05-23T12:07:27.344567	train_cross_entropy	990	0.063532
+2018-05-23T12:07:27.391462	train_step_valacc_N	990	86.0%	100
+2018-05-23T12:07:27.860235	train_step_trainacc_N	999	100.0%	100
+2018-05-23T12:07:27.860235	train_cross_entropy	999	0.037124
+2018-05-23T12:07:27.907113	train_step_valacc_N	999	86.0%	100
+2018-05-23T12:07:27.907113	train	end
+2018-05-23T12:07:28.797782	model_eval	begin
+2018-05-23T12:07:32.626154	model_test_acc_N	84.0%	2000
+2018-05-23T12:07:32.626154	model_eval	end
+2018-05-23T12:07:40.236108	program	end
